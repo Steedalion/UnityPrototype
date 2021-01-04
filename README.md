@@ -13,4 +13,5 @@
 
 Unity prototype
 
-![screenshot](https://raw.githubusercontent.com/Steedalion/Prototype-4-CWC/main/Screenshot.PNG)
+
+<img src='Screenshot.PNG' align="right" width=960>
