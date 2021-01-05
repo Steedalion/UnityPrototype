@@ -1,4 +1,4 @@
-# Prototype project template:
+# Unity Prototype Template
 ## How to use:
 1. Go to project folder
 
@@ -13,5 +13,5 @@
 
 Unity prototype
 
-
+Screenshot
 <img src='Screenshot.PNG' align="right" width=960>
