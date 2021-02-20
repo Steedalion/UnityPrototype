@@ -10,7 +10,7 @@
 [Rr]ecordings/
 sysinfo.txt
 *.stackdump
-/Assets/AssetStoreTools*
+#/Assets/AssetStoreTools*
 *.apk
 *.unitypackage
  
